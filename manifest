@@ -1,9 +1,11 @@
 {
     "name": "MapModForRounds",
     "version_number": "0.1.0",
-    "website_url": "https://github.com/thunderstore-io",
-    "description": "This is a description for a mod. 250 characters max",
+    "website_url": "https://github.com/IGribochek28/MapModForRounds",
+    "description": "My first modpack with maps",
     "dependencies": [
-        "MythicManiac-TestMod-1.1.0"
+        "MapsExtended-olavim-1.4.2"
+        "ExtraMapObjects-BossSloth-1.1.0"
+        "MapsExtendedEditor-olavim-1.4.2"
     ]
 }
